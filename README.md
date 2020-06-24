@@ -22,7 +22,7 @@
 
   <h1>공부방향</h1>
   <p style="margin-top:px25;">
-이제부터 속성으로 나가기 시작한다.   우선은 최소한의 암기만을 하며 이해 측면을 강조하여 전 과정을 독파하는 식으로 나간다. <br>암기는 주로 <strong><u>반복적인 "읽기 수준"보다 조금 높은 수준의 복습으로 진행할 것이나, 실질적인 타이핑하며 복습하는 것도 가끔이지만 반복</u></strong>해야 한다. <a href="https://www.w3.org target="_blank" title="web headquarter">Hypertext Markup Language</a>
+이제부터 속성으로 나가기 시작한다.   우선은 최소한의 암기만을 하며 이해 측면을 강조하여 전 과정을 독파하는 식으로 나간다. <br>암기는 주로 <strong><u>반복적인 "읽기 수준"보다 조금 높은 수준의 복습으로 진행할 것이나, 실질적으로 타이핑하며 복습하는 것도 가끔이지만 반복적으로</u></strong>해야 한다. <a href="https://www.w3.org target="_blank" title="web headquarter">Hypertext Markup Language</a>
 <img src="picture1.jpg" width="50%">
 </p>
 </body>
